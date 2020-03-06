@@ -1,0 +1,9 @@
+name: MultiSwap
+main: com.hiccup01.MultiSwap.MultiSwap
+version: 1.0-SNAPSHOT
+author: serverhiccups
+api-version: "1.15"
+commands:
+  startmultiswap:
+    description: "Start the multiswap plugin."
+    usage: "/startmultiswap"
