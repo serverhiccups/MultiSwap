@@ -7,3 +7,6 @@ commands:
   startmultiswap:
     description: "Start the multiswap plugin."
     usage: "/startmultiswap"
+  distribute:
+    description: "Distribute the players"
+    usage: "/distribute"
